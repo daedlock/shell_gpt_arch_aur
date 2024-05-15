@@ -1,0 +1,1 @@
+# shell_gpt_arch_aur
